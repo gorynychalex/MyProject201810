@@ -8,6 +8,7 @@ public class Main01 {
     }
 
     public static void method(){
-        
+
+        System.out.println();
     }
 }
